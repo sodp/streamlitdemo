@@ -26,7 +26,7 @@ def load_model():
 with st.spinner('Model is being Loaded...'):
     model = load_model()
 
-    #sample comment to push
+    #sample comment to stash
 # In[3]:
 
 
